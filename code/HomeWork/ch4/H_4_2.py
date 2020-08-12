@@ -1,0 +1,1 @@
+print (isinstance(pow((((23/11)+(38*5))-200),2),int))
