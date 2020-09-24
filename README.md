@@ -1,6 +1,6 @@
 # pyclass
 
-### Python Data Science Handbook
+### [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook.git)
 #### [code -- ipynb](https://github.com/jakevdp/PythonDataScienceHandbook/tree/master/notebooks)
 #### [Book -- eng](https://jakevdp.github.io/PythonDataScienceHandbook/)
 <pre>
