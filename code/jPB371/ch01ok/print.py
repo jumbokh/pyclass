@@ -1,0 +1,6 @@
+print("開始輸出")
+print(1, 2, 3)
+print(4, 5, 6, sep="@")
+print(7, 8, 9, sep="|", end=" ")
+print(10, 11, 12, sep="*")
+print("結束輸出")
